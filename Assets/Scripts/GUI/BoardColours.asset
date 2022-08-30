@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b31a2dfd671c5140914bd97c9cb636f, type: 3}
+  m_Name: BoardColours
+  m_EditorClassIdentifier: 
+  dark: {r: 0.33478463, g: 0.31959775, b: 0.509434, a: 1}
+  light: {r: 0.9137255, g: 0.6509804, b: 0.6509804, a: 1}
+  selectedDark: {r: 0.8490566, g: 0.808673, b: 0.36445355, a: 1}
+  selectedLight: {r: 0.9716981, g: 0.9252032, b: 0.40792987, a: 1}
+  newestMove: {r: 0.5747152, g: 0.6008419, b: 0.990566, a: 1}
+  validMoves: {r: 0.6842674, g: 1, b: 0.6650944, a: 1}
+  checkingPiece: {r: 1, g: 0, b: 0, a: 1}
+  whiteAttackedSquare: {r: 1, g: 0.5330188, b: 0.93439114, a: 1}
+  blackAttackedSquare: {r: 0.5754717, g: 0.035288375, b: 0.5447296, a: 1}
